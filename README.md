@@ -38,7 +38,6 @@ O projeto é dividido em duas partes: `back-app` e `web-app`. A primeira é resp
 
 ## 🚀 Tecnologias
 
-<!---technologies-badges-from-cano.githubusercontent--->
 ### Front-end
 
 ![react](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -46,7 +45,7 @@ O projeto é dividido em duas partes: `back-app` e `web-app`. A primeira é resp
 ![nextjs](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-#### Back-end
+### Back-end
 
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![fastapi](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
