@@ -1,0 +1,6 @@
+[submodule "back-app/repo/handle-auth-service"]
+	url = https://github.com/HandleServices/handle-auth-service.git
+[submodule "back-app/repo/handle-api"]
+	url = https://github.com/HandleServices/handle-api.git
+[submodule "web-app/repo/handle-workers"]
+	url = git@github.com:HandleServices/handle-workers.git
