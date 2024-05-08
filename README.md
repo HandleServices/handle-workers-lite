@@ -36,6 +36,42 @@ O projeto é dividido em duas partes: `back-app` e `web-app`. A primeira é resp
 - Back-app: Contém os repositórios dos serviços [`handle-api`](./back-app/repo/handle-api) e [`handle-auth-service`](./back-app/repo/handle-auth-service/).
 - Web-app: Contém o repositório das aplicações web [`handle-workers`](./web-app/repo/handle-workers/).
 
+## Começando
+
+Este repositório incorpora a funcionalidade de submódulos do GitHub para gerenciar dependências externas de forma organizada e eficiente.
+
+Para clonar este repositório juntamente com todos os seus submódulos, utilize o seguinte comando:
+
+```bash
+    git clone --recursive git@github.com:HandleServices/handle-workers-lite.git
+```
+
+Se preferir clonar apenas o repositório principal e posteriormente inicializar seus submódulos, empregue o seguinte comando:
+
+```bash
+    git clone git@github.com:HandleServices/handle-workers-lite.git
+```
+
+Após realizar a clonagem do repositório, a inicialização de todos os submódulos pode ser realizada por meio do seguinte comando:
+
+```bash
+    git submodule update --init --recursive
+```
+
+Caso deseje iniciar somente um submódulo específico, utilize o comando a seguir, especificando o caminho para o repositório desejado:
+
+```bash
+    git submodule update --init path/to/repository
+```
+
+Para atualizar o repositório principal juntamente com seus submódulos, empregue o comando abaixo:
+
+```bash
+    git pull --recurse-submodule
+```
+
+Estas orientações fornecem uma abordagem estruturada para gerenciar os submódulos neste projeto, otimizando a integração de dependências externas.
+
 ## 🚀 Tecnologias
 
 ### Front-end
