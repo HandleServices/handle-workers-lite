@@ -33,8 +33,8 @@ Aqui, você encontrará documentos essenciais que fornecem informações sobre a
 
 O projeto é dividido em duas partes: `back-app` e `web-app`. A primeira é responsável por toda a parte de backend da aplicação, enquanto a segunda é responsável por toda a parte de frontend.
 
-- Back-app: Contém os repositórios dos serviços [`handle-api`](./back-app/repo/handle-api) e [`handle-auth-service`](./back-app/repo/handle-auth-service/).
-- Web-app: Contém o repositório das aplicações web [`handle-workers`](./web-app/repo/handle-workers/).
+- Back-app: Contém os repositórios dos serviços `handle-api` e `handle-auth-service`.
+- Web-app: Contém o repositório das aplicações web `handle-workers`.
 
 ## Começando
 
