@@ -2,9 +2,11 @@
 [submodule "back-app/repo/handle-auth-service"]
 	path = back-app/repo/handle-auth-service
 	url = git@github.com:HandleServices/handle-auth-service.git
+
 [submodule "back-app/repo/handle-work-service"]
 	path = back-app/repo/handle-work-service
-	url= git@github.com:HandleServices/handle-work-service.git
+	url = git@github.com:HandleServices/handle-work-service.git
+	
 [submodule "back-app/repo/handle-api"]
 	path = back-app/repo/handle-api
 	url = git@github.com:HandleServices/handle-api.git

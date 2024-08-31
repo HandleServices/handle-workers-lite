@@ -34,7 +34,12 @@ Aqui, você encontrará documentos essenciais que fornecem informações sobre a
 
 O projeto é dividido em duas partes: `back-app` e `web-app`. A primeira é responsável por toda a parte de backend da aplicação, enquanto a segunda é responsável por toda a parte de frontend.
 
-- Back-app: Contém os repositórios dos serviços [`handle-api`](https://github.com/HandleServices/handle-api/) e [`handle-auth-service`](https://github.com/HandleServices/handle-auth-service/).
+- Back-app: Contém os repositórios dos serviços:
+
+  - [`handle-api`](https://github.com/HandleServices/handle-api/)
+  - [`handle-auth-service`](https://github.com/HandleServices/handle-auth-service/).
+  - [`handle-work-service`](https://github.com/HandleServices/handle-work-service/).
+
 - Web-app: Contém o repositório das aplicações web [`handle-workers`](https://github.com/HandleServices/handle-workers/).
 
 ## 📦 Submódulos
@@ -107,7 +112,6 @@ Estas orientações fornecem uma abordagem estruturada para gerenciar os submód
 [![docker-compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 [![flyway](https://img.shields.io/badge/-Flyway-0072C6?style=flat-square&logo=flyway&logoColor=white)](https://flywaydb.org)
 [![swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://swagger.io)
-
 
 ## 👥 Integrantes
 
