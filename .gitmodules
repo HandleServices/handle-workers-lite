@@ -1,9 +1,16 @@
+# back-end
 [submodule "back-app/repo/handle-auth-service"]
 	path = back-app/repo/handle-auth-service
 	url = git@github.com:HandleServices/handle-auth-service.git
+[submodule "back-app/repo/handle-work-service"]
+	path = back-app/repo/handle-work-service
+	url= git@github.com:HandleServices/handle-work-service.git
 [submodule "back-app/repo/handle-api"]
 	path = back-app/repo/handle-api
 	url = git@github.com:HandleServices/handle-api.git
+
+
+## front-end
 [submodule "web-app/repo/handle-workers"]
 	path = web-app/repo/handle-workers
 	url = git@github.com:HandleServices/handle-workers.git
