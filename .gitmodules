@@ -16,3 +16,4 @@
 [submodule "web-app/repo/handle-workers"]
 	path = web-app/repo/handle-workers
 	url = git@github.com:HandleServices/handle-workers.git
+	branch = develop
