@@ -6,11 +6,11 @@
 [submodule "back-app/repo/handle-work-service"]
 	path = back-app/repo/handle-work-service
 	url = git@github.com:HandleServices/handle-work-service.git
+	branch = main
 	
 [submodule "back-app/repo/handle-api"]
 	path = back-app/repo/handle-api
 	url = git@github.com:HandleServices/handle-api.git
-
 
 ## front-end
 [submodule "web-app/repo/handle-workers"]
